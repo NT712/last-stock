@@ -1,0 +1,138 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				29,
+				-95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tae down0"
+		},
+		{
+			"offsets": [
+				-17,
+				-68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tae left0"
+		},
+		{
+			"offsets": [
+				-97,
+				-111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tae right0"
+		},
+		{
+			"offsets": [
+				-121,
+				-72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tae up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-104
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "non down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-30
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "non up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-50
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "non left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-85
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "non right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				-110
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Can-I-ask-why-Non-and-Tae-fighting-to-get-the-SUS",
+	"position": [
+		540,
+		-90
+	],
+	"healthicon": "taeyai",
+	"flip_x": true,
+	"healthbar_colors": [
+		15,
+		235,
+		255
+	],
+	"camera_position": [
+		-440,
+		420
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

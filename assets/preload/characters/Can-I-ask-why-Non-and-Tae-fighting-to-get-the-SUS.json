@@ -1,0 +1,149 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-95
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tae down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-68
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tae left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				-111
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tae right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-121,
+				-72
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tae up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				4,
+				-104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "non down0"
+		},
+		{
+			"offsets": [
+				10,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "non up0"
+		},
+		{
+			"offsets": [
+				3,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "non left0"
+		},
+		{
+			"offsets": [
+				1,
+				-85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "non right0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				-110
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"offsets": [
+				-310,
+				-380
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "js",
+			"loop": true,
+			"name": "amogus"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Can-I-ask-why-Non-and-Tae-fighting-to-get-the-SUS",
+	"position": [
+		540,
+		-90
+	],
+	"healthicon": "nonsense",
+	"flip_x": true,
+	"healthbar_colors": [
+		15,
+		235,
+		255
+	],
+	"camera_position": [
+		-440,
+		420
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
